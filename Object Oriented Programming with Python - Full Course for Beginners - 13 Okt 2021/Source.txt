@@ -1,0 +1,3 @@
+- Source: https://youtu.be/Ej_02ICOIgs
+- Course developed by Jim from JimShapedCoding. Check out his channel: https://www.youtube.com/@jimshapedcoding
+- Code: https://github.com/jimdevops19/PythonOOP
