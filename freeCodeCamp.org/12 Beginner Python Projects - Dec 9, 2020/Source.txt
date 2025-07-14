@@ -1,0 +1,10 @@
+- Source: https://youtu.be/8ext9G7xspg
+- https://www.youtube.com/ycubed
+- https://github.com/kying18/beginner-projects 
+- https://github.com/kying18/guess-the-number
+- https://github.com/kying18/hangman
+- https://github.com/kying18/tic-tac-toe
+- https://github.com/kying18/minesweeper
+- https://github.com/kying18/sudoku
+- https://github.com/kying18/pyphotoshop
+- https://github.com/kying18/graph-composer
