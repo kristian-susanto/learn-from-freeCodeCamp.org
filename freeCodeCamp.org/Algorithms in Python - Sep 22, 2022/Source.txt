@@ -1,0 +1,3 @@
+- Source: https://youtu.be/fW_OS3LGB9Q
+- https://www.youtube.com/c/PythonLearningChannel
+- https://github.com/joyb0218/intro_to_algorithms/tree/main
