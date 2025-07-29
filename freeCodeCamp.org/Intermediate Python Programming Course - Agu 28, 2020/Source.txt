@@ -1,0 +1,3 @@
+- Source: https://youtu.be/HGOBQPFzWKo
+- https://www.youtube.com/@patloeber
+- https://github.com/patrickloeber/python-engineer-notebooks
